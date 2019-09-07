@@ -1,22 +1,21 @@
 ---
 layout: default
-title: Congratulations!
+title: Gratulacje!
 number: 8
 ---
 
-You've completed all the lessons!
+Ukończyłeś wszystkie lekcje!
 
-Believe it or not, we've only _just begun_ exploring what can be accomplished
-with Markdown. There are many "extended" implementations of Markdown that support
-formats like tables, definition lists, footnotes, and more. Because
-they're non-standard, they're not essential to learning the basics, as we've
-introduced here.
+Wierzcie lub nie, dopiero _zaczęliśmy badać_, co można osiągnąć
+z Markdown. Istnieje wiele „rozszerzonych” implementacji Markdown, które obsługują
+formaty takie jak tabele, listy definicji, przypisy i inne.
+Są one niestandardowe, przez to nie są niezbędne do nauki podstaw, jak to tutaj wprowadziliśmy.
 
-If you'd like to know more about these Markdown implementations, you're welcome
-to explore any number of other Markdown apps and tutorials. Here are just a few:
+Jeśli chcesz dowiedzieć się więcej o tych implementacjach Markdown, możesz zapoznać
+się z dowolną liczbą innych aplikacji i samouczków Markdown. Oto tylko kilka:
 
-* <http://en.wikipedia.org/wiki/Markdown#Example>
-* <http://spec.commonmark.org/dingus/>
-* <http://johnmacfarlane.net/babelmark2/faq.html>
-* <http://idratherbewriting.com/2013/06/04/exploring-markdown-in-collaborative-authoring-to-publishing-workflows/>
-* <https://www.markdownguide.org>
+- <http://en.wikipedia.org/wiki/Markdown#Example>
+- <http://spec.commonmark.org/dingus/>
+- <http://johnmacfarlane.net/babelmark2/faq.html>
+- <http://idratherbewriting.com/2013/06/04/exploring-markdown-in-collaborative-authoring-to-publishing-workflows/>
+- <https://www.markdownguide.org>

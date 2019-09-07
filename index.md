@@ -2,31 +2,18 @@
 layout: default
 ---
 
-Markdown is a way to write content for the web. It's written in what
-people like to call "plaintext", which is exactly the sort of text
-you're used to writing and seeing. Plaintext is just the regular
-alphabet, with a few familiar symbols, like asterisks (
-<code>*</code> ) and backticks ( <code>`</code> ).
+Markdown to sposób na pisanie treści w Internecie. Jest napisany w sposób, który ludzie nazywają „tekstem jawnym”, czyli dokładnie takim tekstem, do którego przywykłeś pisać i widzieć. Tekst zwykły to zwykły alfabet z kilkoma znanymi symbolami, takimi jak gwiazdki (<code>\*</code>) i backticki (<code>`</code>).
 
-Unlike cumbersome word processing applications, text written in
-Markdown can be easily shared between computers, mobile phones, and
-people. It's quickly becoming the writing standard for
-[academics][academics], [scientists][scientists], [writers][writers],
-and many more.  Websites like [GitHub](https://www.github.com) and
-[reddit](http://www.reddit.com) use Markdown to style their comments.
+W przeciwieństwie do uciążliwych aplikacji do edycji tekstu, tekst napisany w Markdown można łatwo udostępniać między komputerami, telefonami komórkowymi i ludźmi. Szybko staje się standardem pisania dla [naukowców uczelnianych][academics], [naukowców][scientists], [pisarzy][writers] i wielu innych. Strony internetowe takie jak [GitHub](https://www.github.com) i
+[reddit](http://www.reddit.com) również krzystają ze składni Markdowna.
 
-Formatting text in Markdown has a very gentle learning curve. It doesn't do anything
-fancy like change the font size, color, or type. All you have control over is
-the display of the text—stuff like making things bold, creating
-headers, and organizing lists.
+Formatowanie tekstu w Markdown ma bardzo łagodną krzywą uczenia się. Markdown nie robi nic fantazyjnego, jak zmiana rozmiaru, koloru lub typu czcionki. Wszystko, nad czym masz kontrolę, to wyświetlanie tekstu - takie jak pogrubienie, tworzenie nagłówków i porządkowanie list.
 
-If you have ten minutes, you can learn Markdown!
+Jeśli masz dziesięć minut, możesz nauczyć się Markdown!
 
-In each lesson, you'll be given an introduction to a single Markdown
-concept. Then, you'll be asked to complete several exercises with that
-new knowledge.
+W każdej lekcji otrzymasz wprowadzenie do pojedynczej koncepcji Markdown. Następnie zostaniesz poproszony o wykonanie kilku ćwiczeń z tą nową wiedzą.
 
-<a class="btn btn-lg btn-success" href="{{ site.baseurl}}/lesson/1">Ready? Let's get started!</a>
+<a class="btn btn-lg btn-success" href="{{ site.baseurl}}/lesson/1">Gotowy? Zaczynajmy!</a>
 
 [academics]: http://chronicle.com/blogs/profhacker/markdown-the-syntax-you-probably-already-know/35295
 [scientists]: http://blogs.plos.org/mfenner/2012/12/13/a-call-for-scholarly-markdown/
